@@ -39,6 +39,7 @@ pip install flask flask-cors mysql-connector-python
 
 ``bash
  npm start
+ 
 ---Open http://localhost:3000 in your browser.
 
 ## Run the Flask server
